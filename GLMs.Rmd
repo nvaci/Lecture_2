@@ -546,7 +546,7 @@ https://en.wikipedia.org/wiki/Precision_and_recall
 ---
 ## Literature
 
-Chapter 5 of "Regression Analysis and Linear Models: Concepts, Applications, and Implementation" by Richard B. Darlington and Andrew F. Hayes <br/> <br/>
+Chapter 5 of "Regression Analysis and Linear Models: Concepts, Applications, and Implementation" by Richard B. Darlington and Andrew F. Hayes <br/>
 
 Chapter 10 of "Statistical Rethinking: A Bayesian Course with Examples in R and Stan " by Richard McElreath + check out his youtube channel
 
