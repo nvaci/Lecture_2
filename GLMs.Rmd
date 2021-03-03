@@ -544,9 +544,26 @@ F1 score: $2*\frac{Precision * Recall}{Precision+Recall} = 0.74$
 ???
 https://en.wikipedia.org/wiki/Precision_and_recall
 ---
+## Important aspects: theory
+
+- How do we use linear model with the non-normal outcomes (link functions) <br/><br/>
+- What are logit values, how do we get to them <br/><br/>
+- How to interpret logistic regression: logits, odds, and probabilities<br/><br/>
+- What is deviance of the model and AIC 
+
+---
+## Important aspects: practice
+
+- Building a logistic model <br/><br/>
+- Predicting values from logistic model <br/><br/>
+- Transforming logit values to odds and to probabilities<br/><br/>
+- Comparing models using deviance, anova function or AIC information<br/><br/>
+- Cross-tabulating model predictions with observed data
+
+---
 ## Literature
 
-Chapter 5 of "Regression Analysis and Linear Models: Concepts, Applications, and Implementation" by Richard B. Darlington and Andrew F. Hayes <br/>
+Chapter 5 of "Data Analysis Using Regression and Multilevel/Hierarchical Models" by Andrew Gelman and Jennifer Hill  <br/>
 
 Chapter 10 of "Statistical Rethinking: A Bayesian Course with Examples in R and Stan " by Richard McElreath + check out his youtube channel
 
